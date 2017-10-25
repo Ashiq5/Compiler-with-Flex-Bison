@@ -1,0 +1,9 @@
+int main(){
+	int a[2],c,i,j ; float d;
+	i=-5;
+	while(c<=1){
+            c++;
+	}
+	println(c);
+	return !0;
+}
